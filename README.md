@@ -1,3 +1,3 @@
 # Disclaimer
 
-This repo is just a personal sandbox for me to use while learning git. For official Anchore documentation, visit [docs.anchore.com](https://docs.anchore.com/).
+This repo contains sample documents I have created and is for personal use. For official Anchore documentation, visit [docs.anchore.com](https://docs.anchore.com/).
